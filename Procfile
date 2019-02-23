@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT beingful_1062.wsgi:application
